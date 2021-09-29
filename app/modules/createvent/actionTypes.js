@@ -1,0 +1,1 @@
+export const CREATE_EVENT = 'createevent/CREATE_EVENT';
